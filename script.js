@@ -12,7 +12,7 @@ function show_numbers() {
 
 ex1_button.addEventListener('click', show_numbers);
 
-//1_2
+//1_12
 var ex2_text = document.getElementById('ex2_text');
 var ex2_content = document.getElementById('ex2_content');
 
